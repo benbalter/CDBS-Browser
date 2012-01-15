@@ -1,0 +1,4 @@
+.postmeta-row { clear: both; width: 100%; }
+.postmeta-row .postmeta-label { font-weight: bold; float: left; width: 150px; }
+.postmeta-row .postmeta-value { float: left; }
+.padding { margin: 20px 0 20px 0;}
