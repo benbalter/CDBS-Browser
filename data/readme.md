@@ -1,0 +1,1 @@
+Put data files from http://transition.fcc.gov/ftp/Bureaus/MB/Databases/cdbs/ in this folder
